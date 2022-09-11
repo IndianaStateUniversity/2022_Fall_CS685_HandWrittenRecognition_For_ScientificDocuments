@@ -1,0 +1,1 @@
+# 2022_Fall_CS685_HandWrittenRecognition_For_ScientificDocuments
